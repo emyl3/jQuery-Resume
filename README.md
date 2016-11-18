@@ -22,3 +22,11 @@ When hovering over the "Print" option in the navigation bar, a different image a
 
 ![alt tag](screenshots/NavHover2.png)
 When hovering over the "Web" option in the navigation bar, a different image appears.
+
+## Usage
+<b>Technology Used</b>: HTML, CSS, jQuery
+
+Fork the repository. Open the `landingPage.html` in a web browser.
+
+# Author
+- elisa lee
